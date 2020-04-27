@@ -14,9 +14,9 @@ somevars: [1980 , 1979 , 1978]
 
 Затем перечисляем их:
 <pre>
-{% if page.somevars -%}
-    {% for somevar in page.somevars %}
-        {{ somevar }}</br>
-    {% endfor %}
-{% endif %}
+___{% if page.somevars -%}
+___    {% for somevar in page.somevars %}
+___        {{ somevar }}</br>
+___    {% endfor %}
+___{% endif %}
 </pre>
