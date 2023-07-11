@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Команды excel"
-date:   2020-07-03
+date:   2023-07-03
 ---
 
 Даты:
